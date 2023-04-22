@@ -18,7 +18,7 @@ yaml_version: 3.0
 #
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
-  author:       "Marushika , Siya , Rudakshi "      # Your name
+  author:       "Marushika Suri  , Siya Sharma  , Rudakshi  Arora "      # Your name
   title:        "FullAdderusing4is1"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "This project is used to add 3-bit binary numbers"      # Short description of what your project does
@@ -32,7 +32,7 @@ documentation:
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   how_to_test:  |
-      Explain how to test your project :  At the input, we have used 4 pins. Pin IN0 is for the clock. Pin IN1, IN2, IN3 for A, B,Cin respectively. Here, we will set the clock at "1", we'll provide sum and carry at the OUT0 and OUT1 pins of the output respectively.Once we start the simulation, we can add two 3-bit binary numbers and the output will be declared at the 7-segment display.
+      Explain how to test your project :  At the input, we have used 4 pins. Pin IN0 is for the clock. Pin IN1, IN2, IN3 for A, B,Cin respectively. Here, we will set the clock at "1", we'll provide sum and carry at the OUT0 and OUT1 pins of the output respectively.Once we start the simulation, we can add two 3-bit binary numbers and the output will be displayed at the 7-segment display.
 
 
 # A description of what the inputs do
